@@ -1,3 +1,5 @@
 venv
-.xml
-.iml
+*.xml
+*.iml
+code*
+samples
